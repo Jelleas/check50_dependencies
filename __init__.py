@@ -1,6 +1,6 @@
 import check50
 import uva.check50.py
-import jupyter
+import numpy
 
 @check50.check()
 def foo():
